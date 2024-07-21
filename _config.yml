@@ -10,10 +10,10 @@
 ############################
 
 # Name of website
-title: My website
+title: Neo-IE School
 
 # Your name to show in the footer
-author: Some Person
+author: Neo-IE School Team
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -52,7 +52,7 @@ round-avatar: true
 social-network-links:
   email: "someone@example.com"
   rss: true  # remove this line if you don't want to show an RSS link at the bottom
-  facebook: deanattali
+  # facebook: deanattali
   github: daattali
   twitter: daattali
   patreon: DeanAttali
@@ -66,7 +66,7 @@ social-network-links:
 #  snapchat: deanat78
 #  instagram: deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+#  telephone: +989332161699
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
